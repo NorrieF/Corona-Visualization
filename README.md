@@ -1,0 +1,2 @@
+# Corona-Visualization
+Using Plotly to visualize Johns Hopkins University's "time_series_covid19_confirmed_global.csv" as of April 19, 2020 with data of Social Distance by country retrieved from Sorokowska, A., Sorokowski, P., Hilpert, P., Cantarero, K., Frackowiak, T., Ahmadi, K., ... &amp; Blumen, S. (2017). Preferred interpersonal distances: a global comparison. Journal of Cross-Cultural Psychology, 48(4), 577-592.
